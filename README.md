@@ -1,6 +1,6 @@
 <b>Смешные команды</b><p>
 </p>1. Ветка и коммит<p>
-</p>git checkout -b wip<p>
+</p><code>git checkout -b wip<code><p>
 </p>git add .<p>
 </p>git commit -m "{Что делали}"<p>
 </p>git push -г origin dev<p>
