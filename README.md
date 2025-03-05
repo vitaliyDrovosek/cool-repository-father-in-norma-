@@ -7,4 +7,4 @@
 </p>
 </p>2. Удаленный сервер типо хз</code><p>
 </p><code>npm install -g live-server</code><p>
-</p>live-server<p>
+</p><code>live-server</code><p>
