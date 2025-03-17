@@ -6,7 +6,7 @@
 </p><code>git push -u origin dev</code><p>
 </p>
 </p>2. Удаленный сервер типо хз
-<p></p>
+
 ```
 npm install -g live-server
 ```
