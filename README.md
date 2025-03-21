@@ -15,7 +15,7 @@ git commit -m "{Что делали}"
 git push -u origin wip
 ```
 
-<b><p>2. Удаленный сервер типо хз</p></b>
+<b><p>2. Открыть веб сервер</p></b>
 
 ```
 npm install -g live-server
