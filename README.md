@@ -1,3 +1,4 @@
+<a href = "https://github.com/21ISR/uidev-index"><b>Ссылка на uidev-index</b><a><p></p>
 <b>Смешные команды</b>
 <p><b>1. Ветка и коммит</b></p>
 
