@@ -1,32 +1,91 @@
-<a href = "https://github.com/21ISR/uidev-index"><b>Ссылка на uidev-index</b></a><p></p>
-<a href = "https://github.com/21ISR"><b>Ссылка на 21ISR</b></a><p></p>
-<b>Смешные команды</b>
-<p><b>1. Ветка и коммит</b></p>
+<a href = "https://github.com/21ISR/uidev-index">
+  <b>
+  Ссылка на uidev-index
+  </b>
+</a>
+<p></p>
+
+<a href = "https://github.com/21ISR">
+  <b>
+    Ссылка на 21ISR
+  </b>
+</a>
+<p></p>
+
+<h1>
+  <b>
+  Смешные команды
+  </b>
+</h1>
+<br>
+<p>
+  <b>
+  1. Ветка и коммит
+  </b>
+</p>
 
 ```
 git checkout -b wip
 ```
+
 ```
 git add .
 ```
+
 ```
 git commit -m "{Что делали}"
 ```
+
 ```
 git push -u origin wip
 ```
-
-<b><p>2. Открыть веб сервер</p></b>
+<br>
+<b>
+  <p>
+  2. Открыть веб сервер
+  </p>
+</b>
 
 ```
 npm install -g live-server
 ```
+
 ```
 live-server
 ```
-<b><p>3. Виртуальная среда</p></b>
+<br>
+<b>
+  <p>
+  3. Виртуальная среда
+  </p>
+</b>
 
 ```
 python -m venv "{название виртуальной среды}"
 ```
-<p>В названии виртуальной среды как правило используется "env"</p>
+
+<p>
+  <u>
+  В названии виртуальной среды как правило используется "env"
+  </u>
+</p>
+<br>
+<b>
+  4. Клонирование репозитория в VSCode    
+</b>
+<ul>
+<li>
+  <code>Ctrl + Shift + P</code>
+</li>
+<li>
+  
+  ```
+  Git:clone
+  ```
+</li>
+<li>
+  Вводим URL репозитория
+</li>
+<li>
+  Выбираем папку
+</li>
