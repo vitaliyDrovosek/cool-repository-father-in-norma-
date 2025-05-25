@@ -18,7 +18,7 @@
   </b>
 </a>
 <p></p>
-<img src="https://github.com/vitaliyDrovosek/cool-repository-father-in-norma-/blob/main/Это%20я).jfif">
+<img src="https://i.playground.ru/e/uarRmDDWIj6xv1oFd2nr8w.jpeg" style="width:20rem; display:flex; justify-items:center;" >
 <h1>
   <b>
   Смешные команды
