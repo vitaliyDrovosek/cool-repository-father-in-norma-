@@ -18,7 +18,7 @@
   </b>
 </a>
 <p></p>
-<img src="https://i.playground.ru/e/uarRmDDWIj6xv1oFd2nr8w.jpeg" style="width:20rem;>
+<img src="https://i.playground.ru/e/uarRmDDWIj6xv1oFd2nr8w.jpeg" style=width:20rem;">
 <h1>
   <b>
   Смешные команды
